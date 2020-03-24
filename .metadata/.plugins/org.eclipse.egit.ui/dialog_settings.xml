@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="200,200"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="200,200"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\elmar\.git">
+			<item value="true"/>
+			<item value="elmarazizli &lt;elmar.azizov1998@knights.ucf.edu&gt;"/>
+			<item value="Azizli_Problem1/&#x0D;&#x0A;&#x0D;&#x0A;Signed-off-by: elmarazizli &lt;elmar.azizov1998@knights.ucf.edu&gt;"/>
+			<item value="elmarazizli &lt;elmar.azizov1998@knights.ucf.edu&gt;"/>
+			<item value="5e9073ff00b9471f2f1bf00de5fbe05c872b5463"/>
+			<item value="0"/>
+			<item value="false"/>
+		</list>
+	</section>
+</section>

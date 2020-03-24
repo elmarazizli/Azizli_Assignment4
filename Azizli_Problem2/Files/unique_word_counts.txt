@@ -1,0 +1,13 @@
+small occurs 2 times
+ slapped occurs 1 times
+ big occurs 2 times
+ in occurs 2 times
+ use occurs 1 times
+ for occurs 1 times
+ I occurs 1 times
+ am occurs 1 times
+ round occurs 1 times
+ of occurs 1 times
+ to occurs 3 times
+ class occurs 1 times
+ hand occurs 1 times
